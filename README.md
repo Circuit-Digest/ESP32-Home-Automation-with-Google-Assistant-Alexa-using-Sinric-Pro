@@ -7,9 +7,9 @@ This project transforms your ordinary electric Light bulb into a smart home auto
 
 ## 🧰 Components
 
-•	NodeMCU (ESP8266/ESP32) 
-•	1-channel 5V SPDT Relay Module
-•	Manual Switch
-•	5V - 2A  AC/DC SMPS 
-•	Light bulb
-•	Connecting wires or PCB (Printed Circuit Board)
+- NodeMCU (ESP8266/ESP32) 
+- 1-channel 5V SPDT Relay Module
+-	Manual Switch
+-	5V - 2A  AC/DC SMPS 
+-	Light bulb
+-	Connecting wires or PCB (Printed Circuit Board)
