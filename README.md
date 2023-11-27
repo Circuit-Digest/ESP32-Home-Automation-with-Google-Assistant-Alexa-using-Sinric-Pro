@@ -13,3 +13,10 @@ This project transforms your ordinary electric Light bulb into a smart home auto
 -	5V - 2A  AC/DC SMPS 
 -	Light bulb
 -	Connecting wires or PCB (Printed Circuit Board)
+
+
+## 📝 License
+
+This project is released under The MIT License (MIT) © [CircuitDigest](https://github.com/circuit-digest)
+
+> "In the world of DIY, creativity knows no bounds." 🎨
