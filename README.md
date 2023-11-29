@@ -14,6 +14,9 @@ This project transforms your ordinary electric Light bulb into a smart home auto
 -	Light bulb
 -	Connecting wires or PCB (Printed Circuit Board)
 
+## 📺 Watch the Tutorial
+
+[![Watch the Tutorial](https://github.com/Circuit-Digest/ESP32-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro/blob/main/Thumbnail%20Image/Home%20Automation%20gif.gif)]
 
 ## 📝 License
 
