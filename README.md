@@ -1,5 +1,5 @@
-# ESP8266-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro
-![ESP8266-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro](https://github.com/Circuit-Digest/ESP8266-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro/blob/main/Thumbnail%20Image/IMG_4912.JPG)
+# ESP32-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro
+![ESP32-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro](https://github.com/Circuit-Digest/ESP8266-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro/blob/main/Thumbnail%20Image/IMG_4912.JPG)
 
 ## 📜 Summary
 
